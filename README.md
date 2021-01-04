@@ -4,4 +4,4 @@
 ![memory game](https://github.com/Eduardosbk/memory-game-eduardo/blob/master/img.png)
 
 
-The popular memory game build with Javascript Vanilla
+The popular memory game built with Javascript Vanilla
